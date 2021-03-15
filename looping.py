@@ -1,4 +1,6 @@
 for i in range (10) :
-  print (i*i)
+  z = i*2
+  print (z)
+  
  
 # Menambahkan Looping Baru
